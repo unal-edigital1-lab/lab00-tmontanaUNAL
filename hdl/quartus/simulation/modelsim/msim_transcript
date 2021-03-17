@@ -12,29 +12,29 @@
 # 
 # vlog -vlog01compat -work work +incdir+E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/src {E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/src/sum1bcc.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 09:36:13 on Mar 17,2021
+# Start time: 10:17:12 on Mar 17,2021
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/src" E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/src/sum1bcc.v 
 # -- Compiling module sum1bcc
 # 
 # Top level modules:
 # 	sum1bcc
-# End time: 09:36:14 on Mar 17,2021, Elapsed time: 0:00:01
+# End time: 10:17:12 on Mar 17,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vlog -vlog01compat -work work +incdir+E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/quartus/simulation/modelsim {E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/quartus/simulation/modelsim/tb.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 09:36:14 on Mar 17,2021
+# Start time: 10:17:12 on Mar 17,2021
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/quartus/simulation/modelsim" E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/quartus/simulation/modelsim/tb.v 
 # -- Compiling module tb
 # 
 # Top level modules:
 # 	tb
-# End time: 09:36:14 on Mar 17,2021, Elapsed time: 0:00:00
+# End time: 10:17:13 on Mar 17,2021, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # 
 # vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  tb
 # vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" tb 
-# Start time: 09:36:14 on Mar 17,2021
+# Start time: 10:17:13 on Mar 17,2021
 # Loading work.tb
 # Loading work.sum1bcc
 # 
@@ -44,8 +44,8 @@
 # view signals
 # .main_pane.objects.interior.cs.body.tree
 # run -all
-# ** Note: $stop    : E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/quartus/simulation/modelsim/tb.v(60)
+# ** Note: $stop    : E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/quartus/simulation/modelsim/tb.v(65)
 #    Time: 2 us  Iteration: 0  Instance: /tb
-# Break in Module tb at E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/quartus/simulation/modelsim/tb.v line 60
-# End time: 09:37:06 on Mar 17,2021, Elapsed time: 0:00:52
+# Break in Module tb at E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/quartus/simulation/modelsim/tb.v line 65
+# End time: 10:17:52 on Mar 17,2021, Elapsed time: 0:00:39
 # Errors: 0, Warnings: 0

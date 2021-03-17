@@ -21,38 +21,43 @@ module tb  ;
 // Start Time = 0 ns, End Time = 1 us, Period = 100 ns
   initial
   begin
-	  A  = 1'b0  ;
-	 # 50 ;
-// 50 ns, single loop till start period.
-   repeat(9)
+   repeat(10)
    begin
 	   A  = 1'b1  ;
 	  #50  A  = 1'b0  ;
 	  #50 ;
-// 950 ns, repeat pattern in loop.
+// 1 us, repeat pattern in loop.
    end
-	  A  = 1'b1  ;
-	 # 50 ;
-// dumped values till 1 us
   end
 
 
-// "Constant Pattern"
-// Start Time = 0 ns, End Time = 1 us, Period = 0 ns
+// "Clock Pattern" : dutyCycle = 50
+// Start Time = 0 ns, End Time = 1 us, Period = 200 ns
   initial
   begin
-	  B  = 1'b1  ;
-	 # 1000 ;
-// dumped values till 1 us
+   repeat(5)
+   begin
+	   B  = 1'b1  ;
+	  #100  B  = 1'b0  ;
+	  #100 ;
+// 1 us, repeat pattern in loop.
+   end
   end
 
 
-// "Constant Pattern"
-// Start Time = 0 ns, End Time = 1 us, Period = 0 ns
+// "Clock Pattern" : dutyCycle = 50
+// Start Time = 0 ns, End Time = 1 us, Period = 400 ns
   initial
   begin
-	  Ci  = 1'b0  ;
-	 # 1000 ;
+   repeat(2)
+   begin
+	   Ci  = 1'b1  ;
+	  #200  Ci  = 1'b0  ;
+	  #200 ;
+// 800 ns, repeat pattern in loop.
+   end
+	  Ci  = 1'b1  ;
+	 # 200 ;
 // dumped values till 1 us
   end
 

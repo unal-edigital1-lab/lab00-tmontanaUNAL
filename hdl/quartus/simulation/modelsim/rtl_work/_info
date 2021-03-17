@@ -10,7 +10,7 @@ z2
 cModel Technology
 Z0 dE:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/quartus/simulation/modelsim
 vsum1bcc
-!s110 1615991773
+!s110 1615994232
 !i10b 1
 !s100 kbd>86O=0<2:dcRSLWeg_0
 Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
@@ -26,34 +26,34 @@ Z3 OV;L;2020.1;71
 r1
 !s85 0
 31
-!s108 1615991773.000000
+Z4 !s108 1615994232.000000
 !s107 E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/src/sum1bcc.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/src|E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/src/sum1bcc.v|
 !i113 1
-Z4 o-vlog01compat -work work
+Z5 o-vlog01compat -work work
 !s92 -vlog01compat -work work +incdir+E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/src
-Z5 tCvgOpt 0
+Z6 tCvgOpt 0
 vtb
-!s110 1615991774
+!s110 1615994233
 !i10b 1
-!s100 gWj=FIhj:X3>i<AQ2YS]E0
+!s100 7QM0AFd;EnajF@ZedLnFd0
 R1
-I32?A[Q`^ZLTbXYePR?R8E2
+IUc;=EQSAC:2aRJm6Q`jN_1
 R2
 R0
-w1615991733
+w1615994189
 8E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/quartus/simulation/modelsim/tb.v
 FE:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/quartus/simulation/modelsim/tb.v
 !i122 1
-L0 3 59
+L0 3 64
 R3
 r1
 !s85 0
 31
-!s108 1615991774.000000
+R4
 !s107 E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/quartus/simulation/modelsim/tb.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/quartus/simulation/modelsim|E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/quartus/simulation/modelsim/tb.v|
 !i113 1
-R4
-!s92 -vlog01compat -work work +incdir+E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/quartus/simulation/modelsim
 R5
+!s92 -vlog01compat -work work +incdir+E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/quartus/simulation/modelsim
+R6
