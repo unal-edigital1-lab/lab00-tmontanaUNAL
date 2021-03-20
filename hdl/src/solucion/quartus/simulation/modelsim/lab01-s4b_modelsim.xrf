@@ -2,6 +2,7 @@ vendor_name = ModelSim
 source_file = 1, E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/src/solucion/src/sum4b_TB.v
 source_file = 1, E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/src/solucion/src/sum1bcc.v
 source_file = 1, E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/src/solucion/src/sum4b.v
+source_file = 1, E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/src/solucion/src/testbench.v
 source_file = 1, E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/src/solucion/quartus/db/lab01-s4b.cbx.xml
 design_name = sum4b
 instance = comp, \co~output , co~output, sum4b, 1

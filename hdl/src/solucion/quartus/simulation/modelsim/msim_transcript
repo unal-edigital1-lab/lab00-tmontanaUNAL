@@ -12,39 +12,39 @@
 # 
 # vlog -vlog01compat -work work +incdir+E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/src/solucion/src {E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/src/solucion/src/sum1bcc.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:41:58 on Mar 17,2021
+# Start time: 16:35:51 on Mar 20,2021
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/src/solucion/src" E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/src/solucion/src/sum1bcc.v 
 # -- Compiling module sum1bcc
 # 
 # Top level modules:
 # 	sum1bcc
-# End time: 10:41:58 on Mar 17,2021, Elapsed time: 0:00:00
+# End time: 16:35:51 on Mar 20,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -vlog01compat -work work +incdir+E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/src/solucion/src {E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/src/solucion/src/sum4b.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:41:58 on Mar 17,2021
+# Start time: 16:35:51 on Mar 20,2021
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/src/solucion/src" E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/src/solucion/src/sum4b.v 
 # -- Compiling module sum4b
 # 
 # Top level modules:
 # 	sum4b
-# End time: 10:41:58 on Mar 17,2021, Elapsed time: 0:00:00
+# End time: 16:35:51 on Mar 20,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vlog -vlog01compat -work work +incdir+E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/src/solucion/quartus/../src {E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/src/solucion/quartus/../src/sum4b_TB.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:41:58 on Mar 17,2021
+# Start time: 16:35:51 on Mar 20,2021
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/src/solucion/quartus/../src" E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/src/solucion/quartus/../src/sum4b_TB.v 
 # -- Compiling module sum4b_TB
 # 
 # Top level modules:
 # 	sum4b_TB
-# End time: 10:41:58 on Mar 17,2021, Elapsed time: 0:00:00
+# End time: 16:35:51 on Mar 20,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  sum4b_TB
 # vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" sum4b_TB 
-# Start time: 10:41:58 on Mar 17,2021
+# Start time: 16:35:51 on Mar 20,2021
 # Loading work.sum4b_TB
 # Loading work.sum4b
 # Loading work.sum1bcc
@@ -162,5 +162,5 @@
 #    Time: 200 ns  Iteration: 0  Instance: /sum4b_TB
 # 1
 # Break in NamedBeginStat TEST_CASE at E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/src/solucion/quartus/../src/sum4b_TB.v line 39
-# End time: 10:49:42 on Mar 17,2021, Elapsed time: 0:07:44
+# End time: 16:38:43 on Mar 20,2021, Elapsed time: 0:02:52
 # Errors: 1, Warnings: 1

@@ -1,0 +1,83 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00/simulation/modelsim
+vsum1bcc
+Z1 !s110 1616277729
+!i10b 1
+!s100 L;laKRJmD4=93F3YIET^R0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I4MG1@99jV9MOLCR:_^:OH1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1616276708
+8E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00/sum1bcc.v
+FE:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00/sum1bcc.v
+!i122 0
+L0 1 18
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1616277729.000000
+!s107 E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00/sum1bcc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00|E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00/sum1bcc.v|
+!i113 1
+Z6 o-vlog01compat -work work
+Z7 !s92 -vlog01compat -work work +incdir+E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00
+Z8 tCvgOpt 0
+vsum4bcc
+R1
+!i10b 1
+!s100 :Rd62;b1aGh>Gn0NNVFEk0
+R2
+I61PzDoiV1B2FYjKhOKU480
+R3
+R0
+w1616276840
+8E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00/sum4bcc.v
+FE:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00/sum4bcc.v
+!i122 1
+L0 1 15
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00/sum4bcc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00|E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00/sum4bcc.v|
+!i113 1
+R6
+R7
+R8
+vtestbench
+!s110 1616277730
+!i10b 1
+!s100 >R8KaYU3THzIc_3bmXV_J0
+R2
+IOHbO6Q;f8Y:B4W[[[AOST2
+R3
+R0
+w1616277715
+8E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00/testbench.v
+FE:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00/testbench.v
+!i122 2
+L0 3 41
+R4
+r1
+!s85 0
+31
+!s108 1616277730.000000
+!s107 E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00/testbench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00|E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00/testbench.v|
+!i113 1
+R6
+R7
+R8
