@@ -22,3 +22,9 @@ Simulando sum1bcc_primitive queda:
 ![image](https://user-images.githubusercontent.com/80001669/111890259-bdb87380-89b5-11eb-98b5-69093d5d96cf.png)
 
 Como se observa en ambas simulaciones, las dos formas de crear el sumador de un bit nos dan el mismo resultado, ademas el resultado de la suma es correcta, por lo tanto dando por validas las implementaciones del sumador.
+
+## Simulación sumador de 4 bits
+
+Aqui se simula el codigo sum4bcc.v con el testbench.v, quedando de la siguiente manera
+
+https://user-images.githubusercontent.com/80001669/111891557-0bd37400-89c2-11eb-9e98-db49dda80c2f.mp4
