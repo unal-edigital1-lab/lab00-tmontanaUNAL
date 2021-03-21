@@ -3,7 +3,7 @@ laboratorio 01 introducción a HDL
 
 Tizzian Santiago Montana Saavedra
 
-NOTA: los codigos y lor archivos de la simulacion se encuentran en la carpeta sol_lab_00
+NOTA: los codigos y los archivos de la simulacion se encuentran en la carpeta sol_lab_00
 
 ## Diferencia entre sum1bcc y sum1bcc_primitive
 
@@ -19,4 +19,6 @@ Simulando sum1bcc queda:
 
 Simulando sum1bcc_primitive queda:
 
-![image](https://user-images.githubusercontent.com/80001669/111890220-703c0680-89b5-11eb-88b8-8706fe3bfce5.png)
+![image](https://user-images.githubusercontent.com/80001669/111890259-bdb87380-89b5-11eb-98b5-69093d5d96cf.png)
+
+Como se observa en ambas simulaciones, las dos formas de crear el sumador de un bit nos dan el mismo resultado, ademas el resultado de la suma es correcta, por lo tanto dando por validas las implementaciones del sumador.
