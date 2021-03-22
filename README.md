@@ -28,3 +28,11 @@ Como se observa en ambas simulaciones, las dos formas de crear el sumador de un 
 Aqui se simula el codigo sum4bcc.v con el testbench.v, quedando de la siguiente manera
 
 https://user-images.githubusercontent.com/80001669/111891557-0bd37400-89c2-11eb-9e98-db49dda80c2f.mp4
+
+Como se observa en el video, con todas las combinaciones posibles de entradas el sumador nos da el resultado correcto.
+
+Es de notar en el diseño del sumador de 4 bits, que este es la conexión de cuatro sumadores Full-Adder de 1 bit, como se muestra acontinuación:
+
+![image](https://user-images.githubusercontent.com/80001669/112009148-2443ab80-8af4-11eb-8a07-a9c56ada5839.png)
+
+Vemos que los cables c1, c2 y c3, conectan las salidas y entradas del acarreo de los sumadores de 1 bit s0, s1, s2 y s3. Esto se puede realizar cuantas veces se desee para hacer un sumador de n bits. Así mismo se pueden colocar en cascada los sumadores de n bits, haciendo mas fácil la implementación de sumadores de muchos bits
