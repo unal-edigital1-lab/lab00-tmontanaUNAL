@@ -10,7 +10,7 @@ z2
 cModel Technology
 Z0 dE:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/quartus/simulation/modelsim
 vsum1bcc
-Z1 !s110 1615995072
+Z1 !s110 1616287018
 !i10b 1
 !s100 kbd>86O=0<2:dcRSLWeg_0
 Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
@@ -26,24 +26,24 @@ Z5 OV;L;2020.1;71
 r1
 !s85 0
 31
-Z6 !s108 1615995072.000000
+Z6 !s108 1616287018.000000
 !s107 E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/src/sum1bcc.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/src|E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/src/sum1bcc.v|
 !i113 1
 Z7 o-vlog01compat -work work
 !s92 -vlog01compat -work work +incdir+E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/src
 Z8 tCvgOpt 0
-vsum1bcc_TB
+vsum1bcc_primitive_TB
 R1
 !i10b 1
-!s100 b7IHZRXeO9ieik8P0[2SW1
+!s100 8:zWAV:fX4l5O7Hd:]_2X2
 R2
-ID4Z<=2?ffk2IZ]10e96;l3
+ImCRlH<A:HMo7O54RUZi8l0
 R3
 R0
 R4
-8E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/quartus/../src/sum1bcc_TB.v
-FE:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/quartus/../src/sum1bcc_TB.v
+8E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/quartus/../src/sum1bcc_primitive_TB.v
+FE:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/quartus/../src/sum1bcc_primitive_TB.v
 !i122 1
 L0 1 33
 R5
@@ -51,10 +51,10 @@ r1
 !s85 0
 31
 R6
-!s107 E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/quartus/../src/sum1bcc_TB.v|
-!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/quartus/../src|E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/quartus/../src/sum1bcc_TB.v|
+!s107 E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/quartus/../src/sum1bcc_primitive_TB.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/quartus/../src|E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/quartus/../src/sum1bcc_primitive_TB.v|
 !i113 1
 R7
 !s92 -vlog01compat -work work +incdir+E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/hdl/quartus/../src
 R8
-nsum1bcc_@t@b
+nsum1bcc_primitive_@t@b

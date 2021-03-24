@@ -10,23 +10,23 @@ z2
 cModel Technology
 Z0 dE:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00/simulation/modelsim
 vsum1bcc
-Z1 !s110 1616277729
+Z1 !s110 1616292478
 !i10b 1
-!s100 L;laKRJmD4=93F3YIET^R0
+!s100 acJAmfPbI[AV9@B=AgW212
 Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
-I4MG1@99jV9MOLCR:_^:OH1
+Ii[55oD1GP;;l6bEhBUV6_2
 Z3 VDg1SIo80bB@j0V0VzS_@n1
 R0
-w1616276708
+w1616278317
 8E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00/sum1bcc.v
 FE:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00/sum1bcc.v
 !i122 0
-L0 1 18
+L0 1 23
 Z4 OV;L;2020.1;71
 r1
 !s85 0
 31
-Z5 !s108 1616277729.000000
+Z5 !s108 1616292478.000000
 !s107 E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00/sum1bcc.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00|E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00/sum1bcc.v|
 !i113 1
@@ -58,7 +58,7 @@ R6
 R7
 R8
 vtestbench
-!s110 1616277730
+R1
 !i10b 1
 !s100 >R8KaYU3THzIc_3bmXV_J0
 R2
@@ -74,7 +74,7 @@ R4
 r1
 !s85 0
 31
-!s108 1616277730.000000
+R5
 !s107 E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00/testbench.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00|E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00/testbench.v|
 !i113 1

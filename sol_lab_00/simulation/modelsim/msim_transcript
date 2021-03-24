@@ -12,39 +12,39 @@
 # 
 # vlog -vlog01compat -work work +incdir+E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00 {E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00/sum1bcc.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 17:02:09 on Mar 20,2021
+# Start time: 21:07:58 on Mar 20,2021
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00" E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00/sum1bcc.v 
 # -- Compiling module sum1bcc
 # 
 # Top level modules:
 # 	sum1bcc
-# End time: 17:02:09 on Mar 20,2021, Elapsed time: 0:00:00
+# End time: 21:07:58 on Mar 20,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -vlog01compat -work work +incdir+E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00 {E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00/sum4bcc.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 17:02:09 on Mar 20,2021
+# Start time: 21:07:58 on Mar 20,2021
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00" E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00/sum4bcc.v 
 # -- Compiling module sum4bcc
 # 
 # Top level modules:
 # 	sum4bcc
-# End time: 17:02:09 on Mar 20,2021, Elapsed time: 0:00:00
+# End time: 21:07:58 on Mar 20,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vlog -vlog01compat -work work +incdir+E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00 {E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00/testbench.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 17:02:10 on Mar 20,2021
+# Start time: 21:07:58 on Mar 20,2021
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00" E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00/testbench.v 
 # -- Compiling module testbench
 # 
 # Top level modules:
 # 	testbench
-# End time: 17:02:10 on Mar 20,2021, Elapsed time: 0:00:00
+# End time: 21:07:58 on Mar 20,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  testbench
 # vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" testbench 
-# Start time: 17:02:10 on Mar 20,2021
+# Start time: 21:07:58 on Mar 20,2021
 # Loading work.testbench
 # Loading work.sum4bcc
 # Loading work.sum1bcc
@@ -162,5 +162,5 @@
 #    Time: 200 ns  Iteration: 0  Instance: /testbench
 # 1
 # Break in NamedBeginStat TEST_CASE at E:/Users/tisam.SUPER-PC/Documents/GitHub/lab00-tmontanaUNAL/sol_lab_00/testbench.v line 39
-# End time: 17:04:19 on Mar 20,2021, Elapsed time: 0:02:09
+# End time: 21:23:03 on Mar 20,2021, Elapsed time: 0:15:05
 # Errors: 1, Warnings: 1
